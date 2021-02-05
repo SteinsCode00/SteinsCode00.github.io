@@ -54,6 +54,7 @@ header {
     max-width: 1000px;
     position: relative;
     margin: auto;
+    border-top: 4px solid black;
   }
   
   /* Hide the images by default */
