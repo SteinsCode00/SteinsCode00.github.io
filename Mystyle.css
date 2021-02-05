@@ -39,7 +39,7 @@ header {
 .navlinks li a:hover {
     color:  #357cff;
     transition: all 0.3s ease 0s;
-    border-bottom: 3px solid #357cff
+    border-bottom: 2px solid #357cff
 }
 
 .topbar {
@@ -54,7 +54,7 @@ header {
     max-width: 1000px;
     position: relative;
     margin: auto;
-    border-top: 4px solid black;
+    border-top: 5px solid black;
   }
   
   /* Hide the images by default */
