@@ -21,18 +21,18 @@ header {
 
 .navlinks {
     list-style: none;
-    background-color: #dfdfdf;
+    background-color: #ffffff;
 }
 
 .navlinks li {
     display: inline-block;
     padding: 0px 20px;
-    background-color: #dfdfdf;
+    background-color: #ffffff;
 }
 
 .navlinks li a {
     transition: all 0.3s ease 0s;
-    background-color : #dfdfdf;
+    background-color : #ffffff;
 }
 
 .navlinks li a:hover {
