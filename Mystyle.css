@@ -56,9 +56,12 @@ header {
   
   /* Hide the images by default */
   .mySlides {
-    display: block;
+    display: none;
   }
   
+  .block {
+      display: block;
+  }
   /* Next & previous buttons */
   .prev, .next {
     cursor: pointer;
