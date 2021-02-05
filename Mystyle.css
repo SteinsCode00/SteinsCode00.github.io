@@ -16,27 +16,27 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-    background: #000000;
+    background: #dfdfdf;
 }
 
 .navlinks {
     list-style: none;
-    background-color: #000000;
+    background-color: #dfdfdf;
 }
 
 .navlinks li {
     display: inline-block;
     padding: 0px 20px;
-    background-color: #000000;
+    background-color: #dfdfdf;
 }
 
 .navlinks li a {
     transition: all 0.3s ease 0s;
-    background-color : #000000;
+    background-color : #dfdfdf;
 }
 
 .navlinks li a:hover {
-    color: #3498db;
+    color:  #6b6b6b;
     transition: all 0.3s ease 0s;
 }
 
