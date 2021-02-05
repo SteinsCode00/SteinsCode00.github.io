@@ -56,7 +56,7 @@ header {
   
   /* Hide the images by default */
   .mySlides {
-    display: none;
+    display: block;
   }
   
   /* Next & previous buttons */
