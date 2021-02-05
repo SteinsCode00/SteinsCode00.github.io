@@ -59,9 +59,10 @@ header {
     display: none;
   }
   
-  .block {
-      display: block;
-  }
+#slide1 {
+    display: block;
+}
+
   /* Next & previous buttons */
   .prev, .next {
     cursor: pointer;
