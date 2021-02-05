@@ -16,7 +16,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-    background: #dfdfdf;
+    background: #ffffff;
 }
 
 .navlinks {
@@ -36,7 +36,7 @@ header {
 }
 
 .navlinks li a:hover {
-    color:  #ffffff;
+    color:  #357cff;
     transition: all 0.3s ease 0s;
 }
 
