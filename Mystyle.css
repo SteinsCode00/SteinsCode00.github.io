@@ -46,3 +46,6 @@ header {
     z-index: 9999;
 }
 
+.mySlides {
+    display: none;
+}
