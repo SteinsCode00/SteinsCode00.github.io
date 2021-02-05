@@ -38,6 +38,7 @@ header {
 .navlinks li a:hover {
     color:  #357cff;
     transition: all 0.3s ease 0s;
+    border-bottom: 3px solid #357cff
 }
 
 .topbar {
