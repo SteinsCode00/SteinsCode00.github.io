@@ -33,6 +33,7 @@ header {
 .navlinks li a {
     transition: all 0.3s ease 0s;
     background-color : #ffffff;
+    border-bottom: 1px solid transparent
 }
 
 .navlinks li a:hover {
