@@ -147,7 +147,7 @@ header {
   }
 
   /*Newest entry text*/
-  .entry {
+  #entry {
     text-size-adjust: 20px;
     text-decoration-color: #357cff;
     margin: auto; 
