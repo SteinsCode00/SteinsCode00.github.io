@@ -54,7 +54,7 @@ header {
     max-width: 1000px;
     position: relative;
     margin: auto;
-    margin-top: 25px;
+    margin-top: 45px;
   }
   
   /* Hide the images by default */
@@ -144,4 +144,12 @@ header {
   @keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
+  }
+
+  /*Newest entry text*/
+  .new-entry {
+    text-size-adjust: 16px;
+    text-decoration-color: #357cff;
+    float: center; 
+    margin-top: 40px;
   }
