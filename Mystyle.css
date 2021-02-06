@@ -148,8 +148,8 @@ header {
 
   /*Newest entry text*/
   .new-entry {
-    text-size-adjust: 16px;
+    text-size-adjust: 20px;
     text-decoration-color: #357cff;
-    float: center; 
+    margin: auto; 
     margin-top: 40px;
   }
