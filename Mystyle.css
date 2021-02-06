@@ -149,8 +149,7 @@ header {
   /*Newest entry text*/
   .entry {
     font-size: 20px;
-    color: #357cff;
-    margin: auto; 
+    color: #357cff; 
     margin-top: 25px;
     margin-right: 250px;
     position: relative;
