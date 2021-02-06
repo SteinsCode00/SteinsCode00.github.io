@@ -54,7 +54,7 @@ header {
     max-width: 1000px;
     position: relative;
     margin: auto;
-    margin-top: 45px;
+    margin-top: 40px;
   }
   
   /* Hide the images by default */
@@ -151,5 +151,6 @@ header {
     font-size: 20px;
     color: #357cff;
     margin: auto; 
-    margin-top: 40px;
+    margin-top: 25px;
+    position: relative;
   }
