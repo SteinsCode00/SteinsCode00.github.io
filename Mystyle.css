@@ -55,8 +55,8 @@ header {
 .slideshow-container {
     max-width: 1000px;
     position: absolute;
-    margin: auto;
     margin-top: 50px;
+    left: 50%;
   }
   
   /* Hide the images by default */
@@ -153,7 +153,7 @@ header {
     font-size: 55px;
     color: #357cff; 
     top: 85px;
-    left: 50%;
+    left: 40%;
     position: absolute;
     font-family: 'Tangerine', cursive;
   }
