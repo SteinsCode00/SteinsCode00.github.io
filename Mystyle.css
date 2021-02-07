@@ -29,12 +29,12 @@ header {
 .navlinks li {
     display: inline-block;
     padding: 0px 20px;
-    background-color: #ffffff;
+    background-color: #c3c3c3;
 }
 
 .navlinks li a {
     transition: all 0.3s ease 0s;
-    background-color : #ffffff;
+    background-color : #c3c3c3;
     border-bottom: 1px solid transparent
 }
 
@@ -150,7 +150,7 @@ header {
 
   /*Newest entry text*/
   .entry {
-    font-size: 24px;
+    font-size: 32px;
     color: #357cff; 
     top: 85px;
     left: 875px;
@@ -167,6 +167,8 @@ header {
     top: 750px;
     background-color: #070707;
     color: #ffffff;
+    width: 50%;
+    height: 500px;
   }
 
   .box-2 {
@@ -177,4 +179,6 @@ header {
     top: 750px;
     background-color: #a8a8a8;
     color: #d82ac5;
+    width: 50%;
+    height: 500px;
   }
