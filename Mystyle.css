@@ -16,7 +16,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 30px 10%;
-    background: #ffffff;
+    background: #c3c3c3;
 }
 
 .navlinks {
@@ -153,4 +153,5 @@ header {
     top: 85px;
     left: 875px;
     position: absolute;
+    
   }
