@@ -59,9 +59,9 @@ header {
 .slideshow-container {
     max-width: 1000px;
     position: absolute;
-    margin-top: 50px;
+    margin-top: 150px;
     margin: 0 auto;
-    left: 30%;
+    left: 35%;
   }
   
   /* Hide the images by default */
