@@ -165,27 +165,27 @@ header {
 
   .box-1 {
     font-family: 'ABeeZee', sans-serif;
-    font-size: 28px;
+    font-size: 24px;
     position: absolute;
     right: 50%;
     top: 750px;
     background-color: #070707;
     color: #ffffff;
     width: 50%;
-    height: 500px;
+    height: 700px;
     text-align: center;
   }
 
   .box-2 {
     font-family: 'ABeeZee', sans-serif;
-    font-size: 28px;
+    font-size: 24px;
     position: absolute;
     left: 50%;
     top: 750px;
-    background-color: #a8a8a8;
+    background-color: #eeeeee;
     color: #d82ac5;
     width: 50%;
-    height: 500px;
+    height: 700px;
     text-align: center;
     
   }
