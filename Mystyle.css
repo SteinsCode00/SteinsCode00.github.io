@@ -124,7 +124,7 @@ header {
     cursor: pointer;
     height: 15px;
     position: absolute;
-    height: 85%;
+    top: 85%;
     width: 15px;
     margin: 0 2px;
     background-color: #bbb;
@@ -160,7 +160,7 @@ header {
     font-size: 55px;
     color: #357cff; 
     top: 85px;
-    left: 40%;
+    left: 45%;
     position: absolute;
     font-family: 'Tangerine', cursive;
   }
