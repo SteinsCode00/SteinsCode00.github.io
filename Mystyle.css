@@ -21,7 +21,9 @@ header {
 
 .navlinks {
     list-style: none;
-    background-color: #ffffff;
+    background-color: #c3c3c3;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 15px;
 }
 
 .navlinks li {
@@ -148,10 +150,31 @@ header {
 
   /*Newest entry text*/
   .entry {
-    font-size: 20px;
+    font-size: 24px;
     color: #357cff; 
     top: 85px;
     left: 875px;
     position: absolute;
+    font-family: 'Tangerine', cursive;
     
+  }
+
+  .box-1 {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 16px;
+    position: absolute;
+    right: 50%;
+    top: 750px;
+    background-color: #070707;
+    color: #ffffff;
+  }
+
+  .box-2 {
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 16px;
+    position: absolute;
+    left: 50%;
+    top: 750px;
+    background-color: #a8a8a8;
+    color: #d82ac5;
   }
