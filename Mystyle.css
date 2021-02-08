@@ -247,7 +247,7 @@ header {
   right: 75px;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 450px)  {
 
   .entry {
     font-size: 18px;
