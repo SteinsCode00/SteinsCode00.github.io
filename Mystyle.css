@@ -193,7 +193,7 @@ header {
   .box-3 {
     width: 100%;
     height: 900px;
-    background-color: #adadad;
+    background-color: #f3f3f3;
     font-size: 24px;
     text-align: center;
     position: absolute;
@@ -245,6 +245,47 @@ header {
   grid-gap: 90px;
   position: relative;
   right: 75px;
+}
+
+.info {
+  font-size: 20px;
+  font-family: 'ABeeZee', sans-serif;
+  color: black;
+  line-height: 3;
+  position: absolute;
+  top: 285px;
+  left: 600px;
+  border: 2px solid rgb(243, 104, 243);
+  text-align: center;
+  padding: 50px 250px;
+  border-radius: 10px;
+}
+
+.footer {
+  background-color: #f87cf2;
+  color: rgb(0, 0, 0);
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  font-family: 'ABeeZee', sans-serif;
+}
+
+.footer2 {
+  background-color: #f87cf2;
+  color: rgb(0, 0, 0);
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  bottom: -1450px;
+  text-align: center;
+  font-family: 'ABeeZee', sans-serif;
+}
+
+#foot {
+  top: 40%;
+  position: relative;
 }
 
 @media screen and (max-width: 450px)  {
@@ -369,4 +410,10 @@ header {
   .prev, .next {
     top: 115px;
   }
+}
+
+.footer2 {
+  position: absolute;
+  top: 1650px;
+  height: 75px;
 }
